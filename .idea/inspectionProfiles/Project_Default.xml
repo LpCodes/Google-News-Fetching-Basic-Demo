@@ -1,0 +1,110 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyArgumentEqualDefaultInspection" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="PyAugmentAssignmentInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <scope name="Project Files" level="WEAK WARNING" enabled="true">
+        <option name="ourVersions">
+          <value>
+            <list size="3">
+              <item index="0" class="java.lang.String" itemvalue="3.8" />
+              <item index="1" class="java.lang.String" itemvalue="3.9" />
+              <item index="2" class="java.lang.String" itemvalue="3.10" />
+            </list>
+          </value>
+        </option>
+      </scope>
+      <option name="ourVersions">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="3.8" />
+            <item index="1" class="java.lang.String" itemvalue="3.9" />
+            <item index="2" class="java.lang.String" itemvalue="3.10" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="HtmlTestRunner" />
+            <item index="1" class="java.lang.String" itemvalue="requests" />
+            <item index="2" class="java.lang.String" itemvalue="PySimpleGUI" />
+            <item index="3" class="java.lang.String" itemvalue="pyinstaller" />
+            <item index="4" class="java.lang.String" itemvalue="black" />
+            <item index="5" class="java.lang.String" itemvalue="pyinstaller-hooks-contrib" />
+            <item index="6" class="java.lang.String" itemvalue="None" />
+            <item index="7" class="java.lang.String" itemvalue="IndianPinCodes" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E122" />
+          <option value="W391" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N813" />
+          <option value="N801" />
+          <option value="N802" />
+          <option value="N806" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingNamesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Cortek_MediaTek.buttons.*" />
+          <option value="Cortek_MediaTek.Scratch2.*" />
+          <option value="eel.my_javascript_function" />
+          <option value="eel.name2" />
+          <option value="tuple.split" />
+          <option value="ad.connecteddevice.Fdcmtk" />
+          <option value="forsubmit.connecteddevice.Fdcmtk" />
+          <option value="ad.serial_port" />
+          <option value="ad.connecteddevice.model1" />
+          <option value="ad.connecteddevice.swver1" />
+          <option value="ad.connecteddevice.hwver1" />
+          <option value="ad.connecteddevice.vendor1" />
+          <option value="ad2.connecteddevice.model1" />
+          <option value="ad2.connecteddevice.swver1" />
+          <option value="ad2.connecteddevice.hwver1" />
+          <option value="ad2.connecteddevice.vendor1" />
+          <option value="ad2.connecteddevice.Fdcmtk" />
+          <option value="ph2_newui.connecteddevice.Fdcmtk" />
+          <option value="ph2_newui_dummy.connecteddevice.Fdcmtk" />
+          <option value="Dummy2.connecteddevice.Fdcmtk" />
+          <option value="Dummy2.saved_l" />
+          <option value="Dummy.connecteddevice.Fdcmtk" />
+          <option value="spb.connecteddevice.Fdcmtk" />
+          <option value="Continuosrunner.connecteddevice.*" />
+          <option value="typing.TextIO.__getitem__" />
+          <option value="c.connecteddevice.Fdcmtk" />
+          <option value="Dummy.serial_port" />
+          <option value="eel.myjs" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SpellCheckingInspection" enabled="true" level="TYPO" enabled_by_default="true">
+      <scope name="Open Files" level="TYPO" enabled="true">
+        <option name="processCode" value="true" />
+        <option name="processLiterals" value="true" />
+        <option name="processComments" value="true" />
+      </scope>
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
